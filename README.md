@@ -1,3 +1,39 @@
+# 🍋 Little Lemon App
+
+Welcome to Little Lemon, a delightful app built with React Native to bring a refreshing twist to your mobile experience!
+
+## 📃Certification
+
+![Coursera (Meta React Native Specialization)](https://www.coursera.org/account/accomplishments/specialization/28HYJA8EX4FS)
+
+## 📚 Features
+
+- Browse a variety of fresh content 🍋
+- User-friendly interface for a seamless experience 📱
+- Secure user data storage 🔒
+- Push notifications to keep you updated 🔔
+- Book your reservations 🪑
+
+## 🚀 Getting Started
+
+1. Open the project in [Expo Snack](https://snack.expo.dev/):
+   - Click on "Open an existing project" and paste the link to your repository.
+
+2. Install the necessary dependencies in Expo Snack.
+
+3. Run the project by clicking the "Run" button in the Expo Snack interface.
+
+
+## 🛠 Tech Stack
+- React Native
+- Expo
+- SQLite
+
+## 📜 License
+Licensed under the MIT License.
+
+## Happy coding! 🚀
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
